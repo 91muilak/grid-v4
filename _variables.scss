@@ -33,6 +33,6 @@ $spacers: map-merge(
 	$spacers
 );
 
-$genSpacersUtils: false !default;
-$genFlexUtils: false !default;
-$minimalReset: true !default;
+$grid-genSpacersUtils: false !default;
+$grid-genFlexUtils: false !default;
+$grid-minimalReset: true !default;
