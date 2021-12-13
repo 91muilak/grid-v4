@@ -1,7 +1,4 @@
-[![Новости](https://img.shields.io/badge/объявления-277a8c?logo=github)](https://github.com/91muilak/grid-v4/discussions/3)
-[![Обсуждение](https://img.shields.io/badge/обсуждение-000000?logo=github)](https://github.com/91muilak/grid-v4/discussions/4)
-
-<img title="Логотип проекта" src=".github/logo.png" alt="Logo" width="100px" align="right" /> Grid-v4 ![](https://img.shields.io/github/package-json/var/91muilak/grid-v4?label=%20)
+<img title="Логотип проекта" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4" alt="Logo" width="100px" align="right" /> Grid-v4 ![](https://img.shields.io/github/package-json/var/91muilak/grid-v4?label=%20)
 ======
 📱 Мощная система гибких сеток из [Bootstrap 4](https://bootstrap-4.ru/docs/4.0/layout/grid/) для мобильных устройств, для удобной верстки и расположения элементов любых видов и размеров.
 
